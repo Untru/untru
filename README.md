@@ -1,10 +1,12 @@
+# **Чегодаев Павел**  
+
+
+![stats graph](https://github-readme-stats.vercel.app/api?username=Untru&locale=en&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&hide_border=true&show=prs_merged)
+![languages graph](https://github-readme-stats.vercel.app/api/top-langs?username=Untru&locale=en&hide_title=false&layout=compact&langs_count=10&hide_border=true)
+
 ![](https://komarev.com/ghpvc/?username=untru)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Untru&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Untru&hide=TeX&layout=compact)
-
-
-# **Чегодаев Павел**  
+# **Обо мне**  
 **Мужчина, 39 лет** (родился 20 августа 1986)  
 
 📍 **Проживает:** Москва  
