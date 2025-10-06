@@ -137,3 +137,6 @@
 - [Untru/quiz](https://github.com/Untru/quiz)  
 - [Untru/autumn-cli-deploy](https://github.com/Untru/autumn-cli-deploy)  
 - Контрибьютинг в **[cpr1c/tools_ui_1c](https://github.com/cpr1c/tools_ui_1c)**  
+
+Telegramm
+Un_tru
