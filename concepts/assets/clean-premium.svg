@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
+  <title id="title">Pavel Chegodaev</title>
+  <desc id="desc">Minimal premium banner for a technical architect</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f5f2eb"/><stop offset="1" stop-color="#e8edf2"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#b9924a"/><stop offset=".5" stop-color="#202733"/><stop offset="1" stop-color="#7a5cc7"/></linearGradient>
+  </defs>
+  <rect width="1200" height="310" rx="22" fill="url(#bg)"/>
+  <path d="M70 65H1130M70 245H1130" stroke="url(#line)" stroke-width="2"/>
+  <text x="600" y="132" text-anchor="middle" fill="#202733" font-family="Georgia,serif" font-size="51" letter-spacing="3">PAVEL CHEGODAEV</text>
+  <text x="600" y="178" text-anchor="middle" fill="#5d6570" font-family="Arial,sans-serif" font-size="17" letter-spacing="5">TECHNICAL ARCHITECT · TECH LEAD</text>
+  <text x="600" y="218" text-anchor="middle" fill="#7a5cc7" font-family="Arial,sans-serif" font-size="16">1C Architecture  ×  AI Systems  ×  Developer Tools</text>
+  <circle cx="600" cy="65" r="5" fill="#b9924a"/><circle cx="600" cy="245" r="5" fill="#7a5cc7"/>
+</svg>
